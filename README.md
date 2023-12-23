@@ -1,16 +1,13 @@
-# 30 Days Code Challenge: Styled Form with Validation
-
+# 30 Days Code Challenge: 
 Welcome to the 30 Days Code Challenge project! organized by KodeCamp 🚀
 
-## Overview
-
-This project is a part of the 30 Days Code Challenge, focusing on creating a styled form with validation and a loader. The form utilizes Bootstrap for styling, includes JavaScript for basic form validation, and features a loader modal to simulate a 10-second loading period before displaying a success message modal.
+## Day 3: Styled Form with Validation
+The form styling, includes JavaScript for basic form validation, and features a loader modal to simulate a 10-second loading period before displaying a success message modal.
 
 ## Project Structure
 
 - `index.html`: HTML file containing the styled form, Bootstrap modals, and JavaScript logic.
-- `style.css`: Custom CSS styles for the form (if additional styling is needed).
-- `assets/`: Directory for storing images, icons, or other assets.
+- `assets/`: Directory for storing css files, images, icons, or other assets.
 - `README.md`: Documentation providing an overview of the project.
 
 ## Getting Started
